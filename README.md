@@ -7,3 +7,34 @@ This repository contains hands-on cybersecurity labs demonstrating practical exp
 - SIEM investigations
 - Log analysis
   ![image alt]()![SIEM Lab Screenshot](./TrackMe-Labs/Screenshot%202026-02-21%20103045.png)
+Log Review
+
+Queried Windows Security logs for failed login attempts.
+
+Filtered Event ID 4625 (failed logon events).
+
+Identified repeated login failures from a single source.
+Checked for:
+
+Brute force indicators (multiple failures within short timeframe)
+
+Abnormal login times
+
+Logins from unfamiliar IP addresses
+
+Compared successful logins (Event ID 4624) following failed attempts.
+
+Queried for suspicious process execution.
+
+Reviewed command-line activity and parent-child process relationships.
+
+Looked for abnormal PowerShell or CMD execution.
+Findings
+
+Detected multiple failed authentication attempts within a short time window.
+
+Observed successful login following repeated failures.
+
+Identified suspicious process execution post-authentication.
+
+This behavior is consistent with potential brute-force or credential-stuffing activity.
