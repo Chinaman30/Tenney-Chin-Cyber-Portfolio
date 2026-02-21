@@ -38,3 +38,4 @@ Observed successful login following repeated failures.
 Identified suspicious process execution post-authentication.
 
 This behavior is consistent with potential brute-force or credential-stuffing activity.
+![image alt]()![Suspicious PowerShell Investigation Screenshot](https://raw.githubusercontent.com/Chinaman30/Tenney-Chin-Cyber-Portfolio/5fbe295c053412ccf648065e10e50f2b120684bb/Screenshot%202026-02-21%20164750.png)
