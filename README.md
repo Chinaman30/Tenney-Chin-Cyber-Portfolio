@@ -43,3 +43,5 @@ This behavior is consistent with potential brute-force or credential-stuffing ac
 
 
 ![image alt]()![LetsDefend Case Screenshot](https://raw.githubusercontent.com/Chinaman30/Tenney-Chin-Cyber-Portfolio/9ba8cbda07e8fcef77cb077e4523fd775da1042a/Screenshot%202026-02-21%20164758.png)
+
+![image alt]()![LetsDefend Case Screenshot](https://raw.githubusercontent.com/Chinaman30/Tenney-Chin-Cyber-Portfolio/3013b06e7d28fcbc10f80199ce85b1113de71020/Screenshot%202026-02-21%20171117.png)
