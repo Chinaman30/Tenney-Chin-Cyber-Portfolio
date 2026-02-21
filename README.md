@@ -6,6 +6,4 @@ This repository contains hands-on cybersecurity labs demonstrating practical exp
 
 - SIEM investigations
 - Log analysis
-- Threat detection
-- Incident response
   ![image alt]()![SIEM Lab Screenshot](./TrackMe-Labs/Screenshot%202026-02-21%20103045.png)
