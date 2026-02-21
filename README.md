@@ -8,4 +8,4 @@ This repository contains hands-on cybersecurity labs demonstrating practical exp
 - Log analysis
 - Threat detection
 - Incident response
-  ![image alt]()https://github.com/Chinaman30/Tenney-Chin-Cyber-Portfolio/blob/6583755e5cae8d5800a15d95f0b48507d79ddebf/TrackMe-Labs/Screenshot%202026-02-21%20103045.png
+  ![image alt]()![SIEM Lab Screenshot](./TrackMe-Labs/Screenshot%202026-02-21%20103045.png)
