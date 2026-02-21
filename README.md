@@ -11,12 +11,12 @@ Log Review
 
 Queried Windows Security logs for failed login attempts.
 
-Filtered Event ID 4625 (failed logon events).
+Filtered Event ID 4720 
 
 Identified repeated login failures from a single source.
 Checked for:
 
-Brute force indicators (multiple failures within short timeframe)
+Brute force indicators 
 
 Abnormal login times
 
