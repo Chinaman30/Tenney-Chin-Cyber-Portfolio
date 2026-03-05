@@ -104,3 +104,82 @@ The infected host was contained.
 Further communication with external C2 servers was blocked.
 
 Additional monitoring was enabled to detect related activity.
+# Cybersecurity Defensive Security Portfolio
+
+This repository showcases hands-on cybersecurity labs focused on **defensive security and blue team operations**.
+
+My goal is to develop practical experience as a **Security Analyst / SOC Analyst**.
+
+## Skills Demonstrated
+
+- Threat Intelligence
+- Malware Investigation
+- Network Traffic Analysis
+- Incident Response
+- Log Analysis
+- Threat Hunting
+
+## Tools Used
+
+- Wireshark
+- Nmap
+- VirusTotal
+- MalwareBazaar
+- Windows Event Viewer
+- Linux CLI
+
+## Labs Included
+
+1. Threat Intelligence Investigation
+2. Malware Hash Analysis
+3. Network Packet Analysis
+4. Detecting Nmap Reconnaissance
+5. Windows Log Analysis
+6. Phishing Email Investigation
+7. File Hash Threat Intelligence
+8. Incident Response Simulation
+9. Endpoint Malware Detection
+10. Threat Hunting Investigation
+11. 1-threat-intelligence/malwarebazaar-analysis.md
+12. # Threat Intelligence Investigation
+
+## Objective
+
+Investigate malware samples using open-source threat intelligence tools.
+
+## Tools Used
+
+MalwareBazaar
+VirusTotal
+
+## Steps
+
+1. Opened MalwareBazaar database
+2. Searched malware family using:
+
+tag:blogger
+
+3. Collected malware sample hashes
+4. Investigated the hash in VirusTotal.
+
+## Screenshot
+
+![MalwareBazaar Investigation](images/malwarebazaar-search.png)
+
+## Explanation
+
+The screenshot shows the MalwareBazaar platform used to locate malware samples.
+
+The correct query format used was:
+
+tag:blogger
+
+This returned multiple malware samples belonging to the Blogger malware family.
+
+## Why This Matters
+
+Threat intelligence allows analysts to identify:
+
+- Known malware families
+- Indicators of compromise
+- Malicious file hashes
