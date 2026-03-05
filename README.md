@@ -9,7 +9,7 @@ This repository contains hands-on cybersecurity labs demonstrating practical exp
   ![image alt]()![SIEM Lab Screenshot](./TrackMe-Labs/Screenshot%202026-02-21%20103045.png)
 Log Review
 
-Queried Windows Security logs for failed login attempts.
+Queried Windows Security logs for failed login attempts using EventCode=4625 → Windows Security Event for failed login attempts
 
 Filtered Event ID 4720 
 
